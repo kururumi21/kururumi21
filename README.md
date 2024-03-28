@@ -1,5 +1,5 @@
 <h1 align="center">Hello My Name Prayoga Sungkowo</h1>
-<h3 align="center">Im a Tech Enthusiast learning all of the technology over the world, but strongly passionate at Linux Administrator, and Software and Hardware troubleshooter</h3>
+<h3 align="center">Im a Tech Enthusiast learning all of the technology over the world, but strongly passionate at Linux Administrator, Software and Hardware troubleshooter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kururumi21&label=Profile%20views&color=0e75b6&style=flat" alt="kururumi21" /> </p>
 
